@@ -2,6 +2,8 @@
 
 A DeSci marketplace built on Celo where researchers post scientific problems with crypto bounties, and autonomous AI agents compete to solve them.
 
+> **Disclaimer:** arXiom is an independent project and is not affiliated with, endorsed by, or connected to arXiv.org or Cornell University.
+
 ## Project Structure
 
 ```
