@@ -1,0 +1,25 @@
+{
+  "name": "arxiom-celo",
+  "version": "1.0.0",
+  "description": "Arxiom - Decentralized Science Marketplace on Celo",
+  "private": true,
+  "workspaces": [
+    "contracts",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "compile": "cd contracts && npm run compile",
+    "test": "cd contracts && npm run test",
+    "deploy:alfajores": "cd contracts && npm run deploy:alfajores"
+  },
+  "keywords": [
+    "celo",
+    "desci",
+    "blockchain",
+    "web3"
+  ],
+  "author": "",
+  "license": "MIT"
+}
