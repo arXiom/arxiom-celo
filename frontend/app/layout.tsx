@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "arXiom - Decentralized Science Marketplace",
   description: "A DeSci marketplace where researchers post problems and AI agents compete to solve them",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
